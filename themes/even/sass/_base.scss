@@ -5,13 +5,13 @@ html {
 
 body {
   line-height: 1.5;
-  color: #34495e;
-  background: #fefefe;
+  background:#e8e8e8;
+  color:#603;
   border-top: 3px solid $main-colour;
 }
 
 .container {
-  width: $body-width;
+  max-width: 1200px;
   margin: 0 auto;
   padding-bottom: 4rem;
 }

@@ -23,10 +23,16 @@ KAUG Radio at Augsburg University wants your voice to be heard!  Join us Tuesday
 If you want to get involved, request a DJ, collobarate with our student organization on an event, or even have us play your music and promote it on our site, send us an email at [kaug@augsburg.edu](mailto:kaug@augsburg.edu) anytime.
 
 ## Executive Board
-- Ziz Immelman, President: [immelmae@augsburg.edu](mailto:immelmae@augsburg.edu)
-- Lauren Holzem, VP: [holzeml@augsburg.edu](mailto:holzeml@augsburg.edu)
-- Taylor Kraemer, Event Coordinator: [kraemert@augsburg.edu](mailto:kraemert@augsburg.edu)
-- Ezra McNair, Studio Manager: [mcnaire@augsburg.edu](mailto:mcnaire@augsburg.edu)
-- Jeron Lau, Web Lord: [lauj@augsburg.edu](mailto:lauj@augsburg.edu)
-- Ava Pedersen, Marketing Coordinator #1: [peders11@augsburg.edu](mailto:peders11@augsburg.edu)
-- Joshua Holtz, Marketing Coordinator #2: [holtzj@augsburg.edu](mailto:holtzj@augsburg.edu)
+Ziz Immelman, President: [immelmae@augsburg.edu](mailto:immelmae@augsburg.edu)
+
+Lauren Holzem, VP: [holzeml@augsburg.edu](mailto:holzeml@augsburg.edu)
+
+Taylor Kraemer, Event Coordinator: [kraemert@augsburg.edu](mailto:kraemert@augsburg.edu)
+
+Ezra McNair, Studio Manager: [mcnaire@augsburg.edu](mailto:mcnaire@augsburg.edu)
+
+Jeron Lau, Web Lord: [lauj@augsburg.edu](mailto:lauj@augsburg.edu)
+
+Ava Pedersen, Marketing Coordinator #1: [peders11@augsburg.edu](mailto:peders11@augsburg.edu)
+
+Joshua Holtz, Marketing Coordinator #2: [holtzj@augsburg.edu](mailto:holtzj@augsburg.edu)

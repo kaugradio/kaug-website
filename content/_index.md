@@ -1,5 +1,4 @@
 +++
 paginate_by = 2
 sort_by = "date"
-title = "KAUG Radio"
 +++
