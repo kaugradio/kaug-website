@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://kaug.org"
+base_url = "https://kaug-radio.web.app" # "https://kaug.org"
 
 title = "KAUG Radio & Concert Promotion"
 description = "Welcome to KAUG!"
@@ -32,6 +32,6 @@ even_menu = [
     {url = "$BASE_URL/artists", name = "Artists"},
     {url = "$BASE_URL/about", name = "About"},
 ]
-even_title = "Kaug Radio"
+even_title = "/res/icon.svg"
 katex_auto_render = true
 katex_enable = true
