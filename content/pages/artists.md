@@ -12,15 +12,15 @@ Here at Augsburg, we have a collection of bands / artists comprised of our very 
 # Past Augsburg Artists
 ## The Pocket Change
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="http://bandcamp.com/EmbeddedPlayer/album=579753951/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" width="320" height="240"></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=579753951/size=small/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="http://thepocketchangemn.bandcamp.com/album/the-pocket-change-ep">The Pocket Change EP by The Pocket Change</a></iframe>
 
 ## Remo Drive
 
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2347483498/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" width="320" height="240"></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2270995853/size=small/bgcol=333333/linkcol=ffffff/track=2347483498/transparent=true/" seamless><a href="http://remodrive.bandcamp.com/album/greatest-hits">Greatest Hits by Remo Drive</a></iframe>
 
 ## Lukas Olson
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2181925815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" width="320" height="240"></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2181925815/size=small/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="http://lukasolsonmusic.bandcamp.com/album/burmanshire">Burmanshire by Lukas Olson</a></iframe>
 
 ## Adriatic
 
