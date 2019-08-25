@@ -5,7 +5,7 @@ template = "about.html"
 +++
 
 <center>
-<a href="https://www.instagram.com/kaugradio" style="display:inline-block;width:84px"><img width="64px" style="border-radius:15px;margin:0px;padding:0px" src="res/instagram.png"></a><a href="https://twitter.com/RadioKAUG" style="display:inline-block;width:84px"><img width="64px" style="border-radius:15px;margin:0px;padding:0px;margin-right:10px" src="res/twitter.svg"><a href="https://www.facebook.com/kaugradio" style="display:inline-block;width:64px"><img width="64px" style="border-radius:15px;margin:0px;padding:0px;margin-right:10px" src="res/facebook.svg"></a>
+<a href="https://www.instagram.com/kaugradio" style="display:inline-block;width:84px"><img width="64px" style="border-radius:15px;margin:0px;padding:0px" src="/res/instagram.png"></a><a href="https://twitter.com/RadioKAUG" style="display:inline-block;width:84px"><img width="64px" style="border-radius:15px;margin:0px;padding:0px;margin-right:10px" src="/res/twitter.svg"><a href="https://www.facebook.com/kaugradio" style="display:inline-block;width:64px"><img width="64px" style="border-radius:15px;margin:0px;padding:0px;margin-right:10px" src="/res/facebook.svg"></a>
 </center>
 
 # About KAUG
