@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://kaug-radio.web.app" # "https://kaug.org"
+base_url = "https://kaug.org"
 
 title = "KAUG Radio & Concert Promotion"
 description = "Welcome to KAUG!"
@@ -27,7 +27,6 @@ taxonomies = [
 # Put all your custom variables here
 even_menu = [
     {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/events", name = "Events"},
     {url = "$BASE_URL/shows", name = "Shows"},
     {url = "$BASE_URL/artists", name = "Artists"},
     {url = "$BASE_URL/about", name = "About"},

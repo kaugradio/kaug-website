@@ -5,9 +5,11 @@ template = "about.html"
 +++
 
 # Augsburg Artists
-Here at Augsburg, we have a collection of bands / artists comprised of our very own fellow students! Here are some of these awesome musicians.  Email [kaug@augsburg.edu](mailto:kaug@augsburg.edu) if you're a student at Augsburg University and you want your music to show up here.
+Here at Augsburg, we have a collection of musicians / artists comprised of our very own fellow students!  Here's some of their art.  Email [lauj@augsburg.edu](mailto:lauj@augsburg.edu) if you're a student at Augsburg University and you want your art on this page (it doesn't have to be music).
 
 # 2019-2020
+## Lord Aldaron
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2194395061/size=small/bgcol=333333/linkcol=ffffff/transparent=true/" seamless><a href="http://lordaldaron.bandcamp.com/track/near">Near by Lord Aldaron</a></iframe>
 
 # Past Augsburg Artists
 ## The Pocket Change

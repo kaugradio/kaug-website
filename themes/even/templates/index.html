@@ -85,6 +85,14 @@
             <main>
                 <div class="content" id="mobile-panel">
                     {% block content %}
+
+                        <p style="margin-top:0px;padding-top:15px;float:right">Now Playing: Unknown</p>
+                        <p style="margin-top:0px;padding-top:15px">Listen To KAUG Radio:</p>
+
+                        <audio id="player" controls autoplay style="width:100%">
+                            <source src="http://141.224.159.43:8000" type="audio/ogg"/>
+                        </audio>
+
                         <div class="posts">
                             {% for page in paginator.pages %}
                                 <article class="post">

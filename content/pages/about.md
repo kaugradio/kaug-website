@@ -31,8 +31,6 @@ Taylor Kraemer, Event Coordinator: [kraemert@augsburg.edu](mailto:kraemert@augsb
 
 Ezra McNair, Studio Manager: [mcnaire@augsburg.edu](mailto:mcnaire@augsburg.edu)
 
+Ava Pedersen, Marketing Coordinator: [peders11@augsburg.edu](mailto:peders11@augsburg.edu)
+
 Jeron Lau, Web Lord: [lauj@augsburg.edu](mailto:lauj@augsburg.edu)
-
-Ava Pedersen, Marketing Coordinator #1: [peders11@augsburg.edu](mailto:peders11@augsburg.edu)
-
-Joshua Holtz, Marketing Coordinator #2: [holtzj@augsburg.edu](mailto:holtzj@augsburg.edu)
