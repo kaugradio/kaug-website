@@ -17,7 +17,7 @@ KAUG provides a venue for a number of radio shows, hosted by Augsburg students w
 It shall be the purpose of KAUG to be a voice for the Augsburg University community and surrounding communities by presenting a variety of media. KAUG aims to provide an outlet for the individuals of Augsburg University to express themselves in many different ways.
 
 # Join KAUG!
-KAUG Radio at Augsburg University wants your voice to be heard!  Join us Tuesday nights at 6:30 in the Auggies Nest (below Christensen).  Start a radio show.  Help KAUG host an event.  Promote stuff!  DJ Stuff!  It will be fun!
+KAUG Radio at Augsburg University wants your voice to be heard!  Join us Wednesdays at 6:15 PM in the Auggies Nest (below Christensen).  Start a radio show.  Help KAUG host an event.  Promote stuff!  DJ Stuff!  It will be fun!
 
 # Contact
 If you want to get involved, request a DJ, collobarate with our student organization on an event, or even have us play your music and promote it on our site, send us an email at [kaug@augsburg.edu](mailto:kaug@augsburg.edu) anytime.
@@ -25,7 +25,7 @@ If you want to get involved, request a DJ, collobarate with our student organiza
 ## Executive Board
 Ziz Immelman, President: [immelmae@augsburg.edu](mailto:immelmae@augsburg.edu)
 
-Lauren Holzem, VP: [holzeml@augsburg.edu](mailto:holzeml@augsburg.edu)
+Marissa Kirchoff, VP: [kirchofm@augsburg.edu](mailto:kirchofm@augsburg.edu)
 
 Taylor Kraemer, Event Coordinator: [kraemert@augsburg.edu](mailto:kraemert@augsburg.edu)
 
